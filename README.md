@@ -1,2 +1,1 @@
-# zcon0
-Zcon0 presentation
+Presentations about zero-knowledge proofs.
